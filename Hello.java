@@ -4,5 +4,6 @@ public class Hello {
 		System.out.println("SUN値ピンチ！ SUN値ピンチ！SUN値ピンチ！");
 		System.out.println("SUN値ピンチ！ SUN値ピンチ！SUN値ピンチ！");
 		System.out.println("おは");
+		Syetem.out.println("おは～");
 	}
 }
