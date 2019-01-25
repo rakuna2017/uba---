@@ -1,7 +1,8 @@
 public class Hello {
 	public static void main(String[] hoge) {
-		System.out.println("Hello!(>w<) Hell?(EƒÖ<)ƒm");
-		System.out.println("SUN’lƒsƒ“ƒ`I SUN’lƒsƒ“ƒ`ISUN’lƒsƒ“ƒ`I");
-		System.out.println("SUN’lƒsƒ“ƒ`I SUN’lƒsƒ“ƒ`ISUN’lƒsƒ“ƒ`I");
+		System.out.println("Hello!(>w<) Hell?(ãƒ»Ï‰<)ãƒŽ");
+		System.out.println("SUNå€¤ãƒ”ãƒ³ãƒï¼ SUNå€¤ãƒ”ãƒ³ãƒï¼SUNå€¤ãƒ”ãƒ³ãƒï¼");
+		System.out.println("SUNå€¤ãƒ”ãƒ³ãƒï¼ SUNå€¤ãƒ”ãƒ³ãƒï¼SUNå€¤ãƒ”ãƒ³ãƒï¼");
+		System.out.println("ãŠã¯");
 	}
 }
